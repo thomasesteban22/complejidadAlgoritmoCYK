@@ -1,0 +1,16 @@
+
+# Gramática:
+S -> AB
+S -> BC
+A -> a
+B -> b
+C -> c
+A -> AA
+B -> BB
+C -> CC
+
+# Cadenas de prueba:
+aabbcc
+aaaabbbbcccc
+aabb
+aab
